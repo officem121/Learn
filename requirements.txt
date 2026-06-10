@@ -1,0 +1,15 @@
+seaborn
+matplotlib
+ipykernel
+scikit-learn
+nltk
+langchain
+langchain-openai
+pandas
+numpy
+gsim
+uv
+black
+isort
+langchain_community
+pypdf
